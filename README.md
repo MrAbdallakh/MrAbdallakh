@@ -1,4 +1,4 @@
-<h1>Hi I am MrAbdallakh</h1>
+<h1>Hi I am Abdallakh</h1>
 
 <p>You probably want to know which technologies I use.<br>No problem, I'll show you</p>
 
